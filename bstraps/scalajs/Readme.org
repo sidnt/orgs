@@ -1,0 +1,15 @@
+* Tutorial - Bootstrapping Scalajs
+Starting from the rockbottom
+
+** [[https://github.com/scala-js/scala-js][Scala.js]] is a compiler
+- A Scala to Javascript compiler
+- Written in Scala
+
+** As a blackbox
+- It's input: Scala code
+- It's output: equivalent JS code
+
+** What runs the code
+- Scala code is itself compiled by the Scala compiler
+  to Java Byte Codes which are run by the JVM
+- 

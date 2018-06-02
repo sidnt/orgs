@@ -1,1 +1,3 @@
 * orgslabyrinth
+** Design of emacs.d
+** Design of github page
