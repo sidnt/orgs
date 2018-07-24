@@ -1,3 +1,22 @@
 * orgslabyrinth
 ** Design of emacs.d
 ** Design of github page
+
+- how are lists handled
+  is this in the same list
+  
+  yes it is
+  
+  - how is this handled
+  - how about this
+  
+    - is it recursive
+      nested inside
+      like this
+      
+    - how this?
+      yoyo
+      
+    - hi
+    
+  - this?
